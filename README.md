@@ -47,7 +47,35 @@ A modern Android application designed to facilitate seamless communication and c
 
 ## Screenshots
 
-[Coming Soon]
+Here are some screenshots of the app:
+
+### Login Screen
+
+![Login Screen](screenshots/login_screen.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/dashboard_admin.png)
+
+### Admin Functions
+
+![Admin Functions](screenshots/admin_functions.png)
+
+### Teacher Dashboard
+
+![Teacher Dashboard](screenshots/dashboard_teacher.png)
+
+### Parent Dashboard
+
+![Parent Dashboard](screenshots/dashboard_parent.png)
+
+### Chat Screen
+
+![Chat Screen](screenshots/chat_screen.png)
+
+### Amharic Dashboard
+
+![Amharic Dashboard](screenshots/amharic.png)
 
 ## Technical Details
 
