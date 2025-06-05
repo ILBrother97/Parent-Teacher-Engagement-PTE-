@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306622907728",
+    "project_id": "finalproject-374f5",
+    "storage_bucket": "finalproject-374f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306622907728:android:56c7f0b2ec6f502fa3d855",
+        "android_client_info": {
+          "package_name": "com.example.parent_teacher_engagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4AYbbnAZZYJcO4cWl1NW0VozTBxPjo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

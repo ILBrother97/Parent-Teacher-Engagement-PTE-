@@ -1,0 +1,18 @@
+---
+description: How I like to code
+globs: 
+alwaysApply: false
+---
+
+# Coding workflow preferences
+
+- Focus on the areas of relevant to the task
+- Do not touch codes that is unrelated to the task
+- Write thorough tests for all major funcitionality
+- Avoid making major changes to the patterns and architecture of how a feature works, after it has shown to work well, unless explicitly instructed
+- Always think about what other methods and areas of code might be affected by code changes
+ Implement responsive layouts using ConstraintLayout and other flexible UI components
+– Use Kotlin as the primary programming language for modern Android development
+– Leverage Android Jetpack components for managing UI, background tasks, and data persistence
+– Implement accessibility features to make the app usable for all users
+– Implement background tasks using WorkManager for reliability and efficiency

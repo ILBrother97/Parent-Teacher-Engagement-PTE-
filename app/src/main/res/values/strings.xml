@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PTE</string>
+    <string name="parent_dashboard">Parent Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="functions">Functions</string>
+    <string name="view_grades">View Grades</string>
+    <string name="contact_teacher">Contact Teacher</string>
+    <string name="change_password">Change Password</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="semester_one">Semester One</string>
+    <string name="semester_two">Semester Two</string>
+    <string name="select_child">Select Child</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="grades">Grades</string>
+    <string name="detail">Detail</string>
+    <string name="not_submitted">Not submitted</string>
+    <string name="assessment_details">Assessment Details</string>
+    <string name="max_points">Max Points: %1$d</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="amharic">Amharic</string>
+    <string name="password_reset_sent">Password reset email has been sent</string>
+    <string name="reset_email_failed">Failed to send password reset email</string>
+    <string name="password_update_success">Password updated successfully</string>
+    <string name="password_update_failed">Failed to update password: %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="current_password_incorrect">Current password is incorrect</string>
+    <string name="logout_success">Logged out successfully</string>
+    <string name="enter_credentials">Please enter email and password</string>
+    <string name="teacher_registration_success">Teacher registration successful! Please sign in.</string>
+    <string name="parent_registration_success">Parent registration successful! Please sign in.</string>
+    <string name="admin_registration_success">Admin registration successful! Please sign in.</string>
+    <string name="registration_failed">Registration failed: %1$s</string>
+    <string name="no_children_found">No children found</string>
+    <string name="no_attendance_records">No attendance records available for this period</string>
+    <string name="period">Period %1$d</string>
+    <string name="add_teacher">Add Teacher</string>
+    <string name="add_parent">Add Parent</string>
+    <string name="add_student">Add Student</string>
+    <string name="list_teachers">List Teachers</string>
+    <string name="list_parents">List Parents</string>
+    <string name="list_students">List Students</string>
+    <string name="post_events">Post Events</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="insert_grade">Insert Grade</string>
+    <string name="view_class_list">View Class List</string>
+    <string name="post_announcement">Post Announcement</string>
+    <string name="messages">Messages</string>
+    <string name="schedule_meeting">Schedule Meeting</string>
+    <string name="view_reports">View Reports</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="language">Language</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="view_events">View Events</string>
+    <string name="select_time">Select Time</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="set_time">Set Time</string>
+    
+    <!-- New strings for ParentFunctionsTab -->
+    <string name="check_attendance">Check Attendance</string>
+    <string name="grade_overview">Grade Overview</string>
+    <string name="view_upcoming_events">View Upcoming Events</string>
+    <string name="my_meetings">My Meetings</string>
+    <string name="request_meeting">Request Meeting</string>
+    <string name="my_children">My Children</string>
+    <string name="recent_events">Recent Events</string>
+    <string name="no_events_found">No events found</string>
+    <string name="untitled_event">Untitled Event</string>
+    <string name="event_date">Date: %1$s</string>
+    <string name="event_time">Time: %1$s</string>
+    <string name="attendance_for">Attendance for %1$s</string>
+    <string name="no_attendance_for_period">No attendance records found for this period</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="select_period">Select Period</string>
+    <string name="period_number">Period %1$d</string>
+    <string name="grade_colon">Grade: %1$s</string>
+    <string name="attendance_colon">Attendance: %1$s</string>
+    <string name="new_tag">New</string>
+    <string name="subject_assessment_details">%1$s Assessment Details</string>
+    <string name="grades_for">%1$s\'s Grades</string>
+    
+    <!-- Enhanced Dashboard Strings -->
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="dashboard_summary">You have %1$d children registered</string>
+    <string name="quick_stats">Quick Stats</string>
+    <string name="attendance">Attendance</string>
+    <string name="events">Events</string>
+    <string name="children">Children</string>
+    <string name="details">Details</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="new_grade_posted">New Grade Posted</string>
+    <string name="math_test_grade">Math Test: 85/100</string>
+    <string name="attendance_recorded">Attendance Recorded</string>
+    <string name="present_all_classes">Present in all classes</string>
+    <string name="new_message">New Message</string>
+    <string name="from_math_teacher">From Math Teacher</string>
+    <string name="calendar">Calendar</string>
+    <string name="today">Today</string>
+    <string name="event">Event</string>
+    
+    <!-- Added missing strings -->
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="view_all">View All</string>
+    <string name="event_details">Event Details</string>
+    
+    <!-- Progress Tracker Strings -->
+    <string name="progress_tracker">Progress Tracker</string>
+    <string name="select_semester_for_progress">Select Semester for Progress</string>
+    <string name="select_child_for_progress">Select Child for Progress</string>
+    <string name="progress_details">Progress Details</string>
+    <string name="no_progress_details">No progress details available</string>
+    <string name="progress_assessment_details">%1$s Progress Assessment Details</string>
+    <string name="progress_colon">Progress: %1$s</string>
+    
+    <!-- Problem Reporting Strings -->
+    <string name="report_problem">Report Problem</string>
+    <string name="problem_type_selection">Select Problem Type</string>
+    <string name="report_system_problem">Report Problem on the System</string>
+    <string name="report_teacher_problem">Report Problem on Teachers</string>
+    <string name="report_parent_problem">Report Problem on Parents</string>
+    <string name="system_problem">System Problem</string>
+    <string name="user_problem">User Problem</string>
+    <string name="problem_description">Problem Description</string>
+    <string name="enter_problem_description">Please describe the problem in detail</string>
+    <string name="problem_user_email">User Email</string>
+    <string name="enter_user_email">Enter the email of the user you\'re reporting</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="report_submitted">Report submitted successfully</string>
+    <string name="report_submission_failed">Failed to submit report</string>
+    
+    <!-- Admin Problem Management Strings -->
+    <string name="check_reported_problems">Check Reported Problems</string>
+    <string name="reported_problems">Reported Problems</string>
+    <string name="select_role">Select Role</string>
+    <string name="problems_from_teachers">Problems Reported by Teachers</string>
+    <string name="problems_from_parents">Problems Reported by Parents</string>
+    <string name="system_problems">System Problems</string>
+    <string name="user_problems">User Problems</string>
+    <string name="problem_details">Problem Details</string>
+    <string name="reporter_info">Reported By: %1$s (%2$s)</string>
+    <string name="reported_date">Reported on: %1$s</string>
+    <string name="problem_status">Status: %1$s</string>
+    <string name="mark_as_resolved">Mark as Resolved</string>
+    <string name="mark_as_in_progress">Mark as In Progress</string>
+    <string name="no_problems_found">No problems reported</string>
+    <string name="reported_user">Reported User: %1$s</string>
+    <string name="settings">Settings</string>
+    
+    <!-- New strings for announcements -->
+    <string name="announcements_from_teachers">Announcements from Teachers</string>
+    <string name="announcements">Announcements</string>
+    <string name="no_announcements_available">No announcements available</string>
+    <string name="from_label">From:</string>
+    <string name="date_label">Date:</string>
+    <string name="subject_label">Subject:</string>
+    <string name="period_label">Period:</string>
+    <string name="time_label">Time:</string>
+    <string name="description_label">Description:</string>
+    <string name="my_todo">My Todo</string>
+</resources>
